@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm David 👋
 
-<!--
-**Davidoam/Davidoam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Development student** interested in **backend development, software architecture, cloud technologies and AI**.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying **Multiplatform Application Development**
+* 💻 Learning **Java, SQL, Git, GitHub, APIs and backend development**
+* 🧠 Interested in **software architecture, system design and cloud**
+* 🌱 Currently working on my **GitHub Foundations** and improving my development workflow
+* 🚀 Building projects to improve my technical skills and professional portfolio
+
+## Technologies
+
+* Java
+* SQL / PostgreSQL
+* Git & GitHub
+* React
+* HTML / CSS
+* JavaScript / TypeScript
+* JDBC
+* REST APIs
+
+## Current focus
+
+* Clean code
+* Backend architecture
+* GitHub workflow
+* Databases
+* Cloud and DevOps fundamentals
+
+---
+
+> Learning by building.
